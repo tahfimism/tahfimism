@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @tahfimism
-- 👀 I’m interested in HTML, Python, Java etc etc ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-       fb.me/tahfimism
-       ig.me/tahfimism 
-       m.me/tahfimism ...
+- 👀 I’m interested in Python and C++
+- 🌱 I’m currently learning CS'50
+
 
 <!---
 tahfimism/tahfimism is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
