@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tahfim Khan
-- 👀 I’m interested in Python and C++
-- 🌱 I’m currently learning CS'50
+- 👀 Interested in Python and Machine Learning
+
 
 
 <!---
