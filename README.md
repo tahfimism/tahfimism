@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tahfim Khan
+- 👋 Hi, I’m TNakib Noor
 - 👀 Interested in Python and Machine Learning
 
 
