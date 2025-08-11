@@ -9,7 +9,7 @@ Skills and Languages:
 
 <div align="center" width="500px">
 
-![tahfimism's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfimism&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)   ![tahfimism's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfimism&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![tahfimism's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahfimism&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)  
 
 </div>
 
