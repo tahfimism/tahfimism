@@ -1,8 +1,8 @@
 
 
           
-- 👋 Hi, I’m TNakib Noor
-- 👀 Interested in Python and Machine Learning
+- 👋 Hi, I’m Nakib Noor
+- 👀 Exploring Embedded System and Machine Learning
 
 
 
